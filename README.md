@@ -1,6 +1,7 @@
 # UnnamedGame
 A cool 3D game made by me and my friends, more info in readme
 
+https://docs.google.com/document/d/1JKIrW9hlpzBiGClDN2F36P1NLsF_tBI8NwN8wVuEF18/edit?usp=sharing
 
 basically this is the idea so far:
 - Time loop of sorts however certain things that are changed by the player throughout the run and their dead body when the run ends stays in future loops while everything else resets (and maybe shifts and gets reordered).
